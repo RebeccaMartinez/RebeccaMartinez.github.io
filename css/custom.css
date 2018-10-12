@@ -1,0 +1,68 @@
+h1 {
+  margin-bottom: 3%;
+  font-weight: bolder;
+}
+
+.titulo {
+  font-size: 420%;
+  margin-bottom: 5%;
+  text-align: center;
+  color: grey;
+}
+
+.tamanioimagen {
+  height: 260px;
+}
+
+#aplicacioneswebimg {
+  height: 175px;
+}
+
+#seguridadimg{
+  height: 175px;
+}
+
+#javascript {
+  height: 175px;
+  width: 400px;
+}
+
+#services-area {
+  background-color: #383E4C;
+}
+
+#section4 {
+  background-color: white;
+}
+
+label {
+  font-size: 20px;
+}
+
+#section4 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#section5 img {
+  height: 70px;
+  margin-right: 15px;
+}
+
+#section5 p {
+  margin-bottom: 20px;
+}
+
+.programas {
+  padding-bottom: 12%;
+  /*height: 400px;*/
+}
+
+.programas img {
+  width: 100%;
+  height: 177px;
+}
+
+.espacio {
+  margin-bottom: 20px;
+}
